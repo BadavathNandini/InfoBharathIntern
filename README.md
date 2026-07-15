@@ -192,3 +192,6 @@ GET /api/products
 - CI/CD Pipeline
 - ----
 
+LINKEDLN POST LINK:
+https://www.linkedin.com/posts/nandini-badavath-7a50a8362_java-springboot-springsecurity-activity-7483158106386997248-Vyqq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFoSBG0B4uuZKFHC7-vLp2xSqHZBFnnxDzI
+
